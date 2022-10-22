@@ -10,8 +10,8 @@
 # 💻 Tech Stack:
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=eskaider)](https://github.com/anuraghazra/github-readme-stats))<br/>
-![](https://github-readme-streak-stats.herokuapp.com?user=eskaider&theme=dark&hide_border=true&locale=es)](https://git.io/streak-stats)<br/>
+![](https://github-readme-stats.vercel.app/api?username=eskaider)]<br/>
+![](https://github-readme-streak-stats.herokuapp.com?user=eskaider&theme=dark&hide_border=true&locale=es)]<br/>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=DaveOval&icon=5&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=eskaider&label=Profile%20Views&icon=5&pretty=false)]
