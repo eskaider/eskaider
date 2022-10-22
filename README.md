@@ -13,5 +13,5 @@
 ![](https://github-readme-stats.vercel.app/api?username=eskaider)]<br/>
 ![](https://github-readme-streak-stats.herokuapp.com?user=eskaider&theme=dark&hide_border=true&locale=es)]<br/>
 
----
-[![](https://visitcount.itsvg.in/api?id=eskaider&label=Profile%20Views&icon=5&pretty=false)]
+
+---[![](https://visitcount.itsvg.in/api?id=eskaider&label=Profile%20Views&icon=5&pretty=false)](https://visitcount.itsvg.in)
