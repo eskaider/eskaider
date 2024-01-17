@@ -1,7 +1,7 @@
 # Hello world! <img src="https://raw.githubusercontent.com/debdutgoswami/debdutgoswami/master/assets/gifs/Hi.gif" width="30px">.
 # I am Erubey Gonzalez Rojas (eskaider). 
 ## 👨‍💻 About Me:
-🔭 I’m currently working on Alen del Norte in Puebla as Service Operator.<br>🌱 I’m currently learning Front-end web development.<br>💬 <br>⚡ I like League Of Legends and I like learn Programming.
+🔭 I currently work as an installation technician at the Megacable company in the city of Puebla.<br>🌱 I currently learning Dart and Web Developer.<br>💬 <br>⚡ I like League Of Legends and I like learn Programming.
 
 
 ## 🌐 Socials:
